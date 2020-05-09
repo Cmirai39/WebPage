@@ -42,6 +42,11 @@
         background-color: hsl(0, 1%, 28%);
         padding:10px 10px;
     }
+
+    iframe{
+        width:280;
+        height:157;
+    }
 }
 
 @media only screen and (min-width:500px){
@@ -81,10 +86,15 @@
         text-align: center;
         background-color: #bbbbbb;
     }
-    
+
     #movie{
         background-color: hsl(0, 1%, 28%);
         padding:10px 10px;
+    }
+
+    iframe{
+        width:"560";
+        height:"315";
     }
 }
 
