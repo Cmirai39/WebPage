@@ -1,6 +1,6 @@
 @media only screen and (min-width:0px){
     body{
-        background-color: #ffffff;
+        background-color: #000000;
     }
     
     h1{
@@ -69,8 +69,6 @@
 
     p{
         color:#bbbbbb;
-        margin-right:300px;
-        margin-left:300px;
         font-size: 20pt;
     }
 
