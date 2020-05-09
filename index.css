@@ -24,7 +24,7 @@
     }
 
     li{
-        text-align: center;
+        color:#bbbbbb;
     }
 
     p{
@@ -36,6 +36,11 @@
     a{
         text-align: center;
         background-color: #bbbbbb;
+    }
+    
+    #movie{
+        background-color: hsl(0, 1%, 28%);
+        padding:10px 10px;
     }
 }
 
@@ -75,6 +80,11 @@
     a{
         text-align: center;
         background-color: #bbbbbb;
+    }
+    
+    #movie{
+        background-color: hsl(0, 1%, 28%);
+        padding:10px 10px;
     }
 }
 
