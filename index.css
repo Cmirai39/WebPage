@@ -39,7 +39,7 @@
         background-color: #bbbbbb;
     }
     
-    #movie{
+    .movie{
         background-color: hsl(0, 1%, 28%);
         padding:10px 10px;
     }
@@ -76,6 +76,7 @@
     }
     li{
         text-align: center;
+        font-size:20pt;
     }
 
     p{
